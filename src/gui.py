@@ -188,7 +188,7 @@ def get_kp_value_input(tk_entry):
 
 def get_period_value_input(tk_entry):
     '''!
-    Gets the periood value forrm the gield in ttthe GUI. Returns the value if it is a 
+    Gets the periood value form the field in the GUI. Returns the value if it is a 
     positive nonzero integer. Otherwise, returns the default period value. 
     @param      tk_entry -> A Tkinter Entry object that the .get() function is applied
                 to in order to get the value in thte field.
